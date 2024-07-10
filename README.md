@@ -66,9 +66,9 @@ This dataset explains various attributes of property sales in Sydney, such as pr
 
 8. type
 
-   - \*\*Description: Type of property (e.g., House, Vacant land).
-   - \*\*Measurement: Text.
-   - \*\*Data Type: Categorical.
+   - Description: Type of property (e.g., House, Vacant land).
+   - Measurement: Text.
+   - Data Type: Categorical.
 
 9. suburb_population
 
@@ -337,3 +337,60 @@ Next, let's analyze each column to understand the data better.
 - The dataset provides comprehensive information on property sales in Sydney, including price, property features, and geographical details.
 - The distributions of continuous variables like price, property size, and distance from CBD are skewed, indicating the presence of outliers or high variability.
 - The dataset includes both categorical and continuous data, making it suitable for various types of analysis, including time series and geographical mapping.
+
+## Questions
+
+- What are the trends in property prices in different suburbs of Sydney?
+- How do property prices vary by the number of bedrooms and bathrooms?
+- What is the average price of a property based on its distance from the CBD?
+- How does the elevation of a suburb impact property prices?
+
+Geographical Analysis
+
+- Which suburbs have the highest and lowest property prices?
+- How does the distance from the CBD influence property prices?
+  What are the most common property types in different suburbs?
+  How do property prices correlate with the geographical coordinates (latitude and longitude) of suburbs?
+  Demographic Analysis
+
+How does the median income of a suburb's population affect property prices?
+Is there a correlation between suburb population size and property prices?
+Which suburbs have seen the most growth in property prices over time?
+Property Features Analysis
+
+How does the size of the property (in square meters) impact its price?
+What is the distribution of properties with different numbers of bedrooms and bathrooms?
+How do the number of parking spaces available affect property prices?
+
+Temporal Analysis
+
+What are the seasonal trends in property sales in Sydney?
+How have property prices changed over the years?
+Are there specific times of the year when properties are sold at higher or lower prices?
+Economic Factors
+
+How does the cash rate at the time of sale impact property prices?
+What is the relationship between the property inflation index and property prices?
+
+## Questions to Challenge Viewer Assumptions
+
+Suburb Popularity
+
+Are the most expensive suburbs always the most desirable to live in?
+How does the desirability of a suburb change with factors like population density and median income?
+Investment Potential
+
+Which suburbs offer the best investment potential based on price trends and growth rates?
+Are there undervalued suburbs that are likely to see price increases in the near future?
+Impact of Features
+
+How significant is the impact of property features (e.g., number of bedrooms, bathrooms, parking spaces) on the overall price?
+Are larger properties always more expensive, or is there a diminishing return on size?
+Economic Conditions
+
+How do changes in the cash rate influence the real estate market?
+What external economic factors might be driving changes in property prices?
+Geographical Preferences
+
+How do geographical preferences (e.g., proximity to CBD, elevation, coordinates) influence the market?
+Are there emerging suburbs that are becoming more popular due to geographical or economic factors?
