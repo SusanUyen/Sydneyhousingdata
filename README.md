@@ -96,9 +96,9 @@ This dataset explains various attributes of property sales in Sydney, such as pr
 
 13. suburb_lng
 
-    - \*\*Description: Longitude coordinate of the suburb.
-    - \*\*Measurement: Coordinate.
-    - \*\*Data Type: Continuous.
+    - Description: Longitude coordinate of the suburb.
+    - Measurement: Coordinate.
+    - Data Type: Continuous.
 
 14. suburb_elevation
 
